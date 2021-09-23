@@ -1,7 +1,4 @@
 public class Solution {
-    /**
-     * The definition for the linked list. DO NOT modify this class.
-     */
     public static class ListNode {
         int value;
         ListNode next;
